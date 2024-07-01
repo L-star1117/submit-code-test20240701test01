@@ -4,7 +4,7 @@ public class HelloTest01 {
 
 
 
-        System.out.println("再次提交 并合并到主分支");
+        System.out.println("再次提交 提交至branch05 并合并到主分支");
         System.out.println("提交到branch05 并合并到主分支");
     }
 }
